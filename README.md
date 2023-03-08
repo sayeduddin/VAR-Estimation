@@ -10,9 +10,6 @@ Excel file containing data regarding the performance of all the different iterat
 -Kolmogorov–Smirnov test (normal)
 -Anderson–Darling test (normal)
 
-## VAR Estimation Markdown
-Contains all code used to write the final report. 
-
 ## FTSE/FCHI Model Tests
 Contains all the tests use to find the optimal model for FTSE/FCHI. The code was generated using Python since the process of manually changing the models was not time efficient and I was unable to find an appropriate method of iteration in R in the time that was available. 
 
