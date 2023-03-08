@@ -1,7 +1,7 @@
-# VAR-Estimation
+# VAR Estimation
 Estimating VAR of a portfolio of two stock indices using copula theory and Monte Carlo simulation.
 
-## VAR-Estimation-Report
+## VAR Estimation Report
 This is the final report written for the project, outlining key challenges and decomposing how the overall project was navigated. 
 
 ## FTSE AND FCHI DATA
@@ -10,9 +10,13 @@ Excel file containing data regarding the performance of all the different iterat
 -Kolmogorov–Smirnov test (normal)
 -Anderson–Darling test (normal)
 
-## VAR-ESTIMATION-MARKDOWN
+## VAR ESTIMATION MARKDOWN
 Contains all code used to write the final report. 
 
 ## FTSE/FCHI MODEL TESTS
-Contains all the tests use to find the optimal model for FTSE/FCHI. 
+Contains all the tests use to find the optimal model for FTSE/FCHI. The code was generated using Python since the process of manually changing the models was not time efficient and I was unable to find an appropriate method of iteration in R in the time that was available. 
+
+## Code Gen
+Python code used to generate R code for thousands of iterations of models that needed to be checked. 
+
 
